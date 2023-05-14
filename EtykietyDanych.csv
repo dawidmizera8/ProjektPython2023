@@ -1,0 +1,44 @@
+ClassId;Name
+0;Ograniczenie predkosci 20 km/h
+1;Ograniczenie predkosci 30 km/h
+2;Ograniczenie predkosci 50 km/h
+3;Ograniczenie predkosci 60 km/h
+4;Ograniczenie predkosci 70 km/h
+5;Ograniczenie predkosci 80 km/h
+6;Koniec ograniczenia predkosci 80 km/h
+7;Koniec ograniczenia predkosci 100 km/h
+8;Koniec ograniczenia predkosci 120 km/h
+9;Zakaz wyprzedzania
+10;Zakaz wyprzedzania ciêzarowek
+11;Pierwszenstwo przejazdu
+12;Droga z pierwszenstwem
+13;Ustap pierwszenstwa
+14;Stop
+15;Zakaz wjazdu
+16;Zakaz wjazdu dla ciezarowek
+17;Zakaz wjazdu (ogolny)
+18;Uwaga
+19;Niebezpieczny zakret w lewo
+20;Niebezpieczny zakret w prawo
+21;Podwojna krzywa
+22;Nierowna droga
+23;Slisak droga
+24;Droga zweza siê z prawej strony
+25;Roboty drogowe
+26;Sygnalizacja swietlna
+27;Przejscie dla pieszych
+28;Przejscie dla dzieci
+29;Przejscie dla rowerów
+30;Uwaga na go³oledz lub snieg
+31;Zwierzeta na drodze
+32;Koniec ograniczenia predkosci i zakazu wyprzedzania
+33;Skret w prawo
+34;Skret w lewo
+35;Tylko prosto
+36;Prosto lub w prawo
+37;Prosto lub w lewo
+38;Prawostronne rondo
+39;Lewostronne rondo
+40;Obowiazkowe rondo
+41;Koniec zakazu wyprzedzania
+42;Koniec zakazu wyprzedzania dla pojazdow o masie powyzej 3,5 tony
