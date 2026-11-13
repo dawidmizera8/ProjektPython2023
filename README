@@ -1,0 +1,70 @@
+# Traffic Sign Recognition using CNN
+
+A university project developed in 2023 at Rzeszów University of Technology, focused on recognizing road traffic signs using a Convolutional Neural Network (CNN) implemented in Python.
+
+## Technologies
+
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Pandas
+- Scikit-learn
+
+## Project Description
+
+The application uses a CNN model to classify 43 categories of traffic signs based on the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
+
+The project includes:
+
+- Image preprocessing (grayscale conversion, histogram equalization and normalization)
+- Training a convolutional neural network
+- Data augmentation
+- Model evaluation
+- Traffic sign recognition using a webcam
+
+## Project Files
+
+- `training.py` — model training and evaluation
+- `test.py` — traffic sign recognition using a webcam
+- `my_model.h5` — saved neural network model
+- `DaneBadawcze/` — image dataset
+- `EtykietyDanych.csv` — traffic sign labels
+- `PROJEKT-PYTHON.pdf` — project documentation (in Polish)
+
+## Running the Project
+
+The project was developed in 2023 using an older Python and Keras environment. Some dependencies may require compatible versions.
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements
+```
+
+To run the webcam recognition application:
+
+```bash
+python test.py
+```
+
+A working webcam and a compatible Python environment are required.
+
+To retrain the model:
+
+```bash
+python training.py
+```
+
+## Authors
+
+This project was developed in 2023 as part of a university course at Rzeszów University of Technology.
+
+- **Dawid Mizera**
+- **Eryk Sadowski**
+
+The project was completed as a two-person academic team.
+
+## Notes
+
+This is an academic project from 2023, preserved as part of a programming portfolio. The code has not been fully modernized for current library versions.
